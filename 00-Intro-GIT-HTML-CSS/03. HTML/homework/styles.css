@@ -4,6 +4,8 @@ h1 {
 img {
     width: 400px;
 }
+
+
 #thirdDiv {
     height: 600px;
     width: 500px;
@@ -13,5 +15,5 @@ img {
 }
 #spanId {
     font-size: 18px;
-    margin: 50px auto;
+    margin: 50px;
 }
